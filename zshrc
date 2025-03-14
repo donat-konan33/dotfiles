@@ -70,3 +70,8 @@ export EDITOR=code
 
 # Set ipdb as the default Python debugger
 export PYTHONBREAKPOINT=ipdb.set_trace
+
+# Created by `pipx` on 2025-03-14 09:33:22
+export PATH="$PATH:/home/dk.busimanager/.local/bin"
+export SPARK_HOME=/home/dk.busimanager/spark/spark-3.5.3-bin-hadoop3
+export PATH=$PATH:$SPARK_HOME/bin
